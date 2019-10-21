@@ -66,6 +66,7 @@ human = Owner.new("human")
 Owner.all
 human.buy_cat("fluffy")
 human.buy_dog("fido")
+human.list_pets
 
 
 
