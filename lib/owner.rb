@@ -62,7 +62,7 @@ class Owner
   
 end
 
-
+human = Owner.new("human")
 
 
 
